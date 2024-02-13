@@ -1,2 +1,2 @@
 # coq-algebra
-rigorous proofs of basic theorems from essential axioms
+Formal proofs of basic number-theoretic theorems from peano axioms
